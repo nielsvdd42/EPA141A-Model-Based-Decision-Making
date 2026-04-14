@@ -15,19 +15,17 @@ Geographic distribution of the six negotiating blocs.
 
 Each student group self-assigns one actor. The **Group #** column is filled in during the first lecture.
 
-<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<div style="background-color:#3A7D44;color:white;padding:10px 14px;margin-bottom:0;border-radius:4px 4px 0 0;">
+<strong style="font-size:1.05em;">Bloc 1 — Existential Frontline</strong><br>
+<span style="font-weight:normal;font-size:0.87em;opacity:0.92;">Small island and Caribbean states for whom climate change is an existential, near-term threat; joined by youth and Indigenous Peoples pushing the most radical ambition and challenging market-based solutions.</span>
+</div>
+
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;margin-top:0;">
 <thead>
-<tr style="background-color:#3A7D44;color:white;">
-<th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
-  Bloc 1 — Existential Frontline
-  <br><span style="font-weight:normal;font-size:0.87em;opacity:0.92;">Small island and Caribbean states for whom climate change is an existential, near-term threat; joined by youth and Indigenous Peoples pushing the most radical ambition and challenging market-based solutions.</span>
-</th>
-<th style="padding:10px 14px;text-align:center;font-size:1.0em;white-space:nowrap;border:none;">Group #</th>
-</tr>
 <tr style="background-color:#e8e8e8;">
 <th style="padding:6px 10px;border:1px solid #bbb;width:5%;">#</th>
 <th style="padding:6px 10px;border:1px solid #bbb;">Actor</th>
-<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;"></th>
+<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;">Group #</th>
 </tr>
 </thead>
 <tbody>
@@ -39,19 +37,17 @@ Each student group self-assigns one actor. The **Group #** column is filled in d
 </tbody>
 </table>
 
-<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<div style="background-color:#BF8B00;color:white;padding:10px 14px;margin-bottom:0;border-radius:4px 4px 0 0;">
+<strong style="font-size:1.05em;">Bloc 2 — African &amp; Least Developed Coalition</strong><br>
+<span style="font-weight:normal;font-size:0.87em;opacity:0.92;">African Group and LDC states sharing a need for binding mitigation language and generous adaptation finance, but internally undercut by divergent commitments and loan-versus-grant tensions.</span>
+</div>
+
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;margin-top:0;">
 <thead>
-<tr style="background-color:#BF8B00;color:white;">
-<th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
-  Bloc 2 — African &amp; Least Developed Coalition
-  <br><span style="font-weight:normal;font-size:0.87em;opacity:0.92;">African Group and LDC states sharing a need for binding mitigation language and generous adaptation finance, but internally undercut by divergent commitments and loan-versus-grant tensions.</span>
-</th>
-<th style="padding:10px 14px;text-align:center;font-size:1.0em;white-space:nowrap;border:none;">Group #</th>
-</tr>
 <tr style="background-color:#e8e8e8;">
 <th style="padding:6px 10px;border:1px solid #bbb;width:5%;">#</th>
 <th style="padding:6px 10px;border:1px solid #bbb;">Actor</th>
-<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;"></th>
+<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;">Group #</th>
 </tr>
 </thead>
 <tbody>
@@ -63,19 +59,17 @@ Each student group self-assigns one actor. The **Group #** column is filled in d
 </tbody>
 </table>
 
-<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<div style="background-color:#E87722;color:white;padding:10px 14px;margin-bottom:0;border-radius:4px 4px 0 0;">
+<strong style="font-size:1.05em;">Bloc 3 — BASIC &amp; Major Emerging Economies</strong><br>
+<span style="font-weight:normal;font-size:0.87em;opacity:0.92;">The bloc with the largest share of current and future emissions; internally divided between coal-dependent growth paths, deforestation pressures, and climate-exposed archipelagos pushing for higher ambition.</span>
+</div>
+
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;margin-top:0;">
 <thead>
-<tr style="background-color:#E87722;color:white;">
-<th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
-  Bloc 3 — BASIC &amp; Major Emerging Economies
-  <br><span style="font-weight:normal;font-size:0.87em;opacity:0.92;">The bloc with the largest share of current and future emissions; internally divided between coal-dependent growth paths, deforestation pressures, and climate-exposed archipelagos pushing for higher ambition.</span>
-</th>
-<th style="padding:10px 14px;text-align:center;font-size:1.0em;white-space:nowrap;border:none;">Group #</th>
-</tr>
 <tr style="background-color:#e8e8e8;">
 <th style="padding:6px 10px;border:1px solid #bbb;width:5%;">#</th>
 <th style="padding:6px 10px;border:1px solid #bbb;">Actor</th>
-<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;"></th>
+<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;">Group #</th>
 </tr>
 </thead>
 <tbody>
@@ -87,19 +81,17 @@ Each student group self-assigns one actor. The **Group #** column is filled in d
 </tbody>
 </table>
 
-<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<div style="background-color:#2E74B5;color:white;padding:10px 14px;margin-bottom:0;border-radius:4px 4px 0 0;">
+<strong style="font-size:1.05em;">Bloc 4 — High Ambition Coalition</strong><br>
+<span style="font-weight:normal;font-size:0.87em;opacity:0.92;">Developed states with high climate ambition, but internally divided on rapid phase-out timelines, green finance equity, and commercial interests that do not always align with justice goals.</span>
+</div>
+
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;margin-top:0;">
 <thead>
-<tr style="background-color:#2E74B5;color:white;">
-<th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
-  Bloc 4 — High Ambition Coalition
-  <br><span style="font-weight:normal;font-size:0.87em;opacity:0.92;">Developed states with high climate ambition, but internally divided on rapid phase-out timelines, green finance equity, and commercial interests that do not always align with justice goals.</span>
-</th>
-<th style="padding:10px 14px;text-align:center;font-size:1.0em;white-space:nowrap;border:none;">Group #</th>
-</tr>
 <tr style="background-color:#e8e8e8;">
 <th style="padding:6px 10px;border:1px solid #bbb;width:5%;">#</th>
 <th style="padding:6px 10px;border:1px solid #bbb;">Actor</th>
-<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;"></th>
+<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;">Group #</th>
 </tr>
 </thead>
 <tbody>
@@ -111,19 +103,17 @@ Each student group self-assigns one actor. The **Group #** column is filled in d
 </tbody>
 </table>
 
-<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<div style="background-color:#C00000;color:white;padding:10px 14px;margin-bottom:0;border-radius:4px 4px 0 0;">
+<strong style="font-size:1.05em;">Bloc 5 — Fossil Fuel &amp; Reluctant Emitters</strong><br>
+<span style="font-weight:normal;font-size:0.87em;opacity:0.92;">The bloc most likely to block or dilute the agreement; constrained by domestic political divisions, fossil-fuel revenue dependence, and advocacy for CCS as a delay tactic.</span>
+</div>
+
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;margin-top:0;">
 <thead>
-<tr style="background-color:#C00000;color:white;">
-<th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
-  Bloc 5 — Fossil Fuel &amp; Reluctant Emitters
-  <br><span style="font-weight:normal;font-size:0.87em;opacity:0.92;">The bloc most likely to block or dilute the agreement; constrained by domestic political divisions, fossil-fuel revenue dependence, and advocacy for CCS as a delay tactic.</span>
-</th>
-<th style="padding:10px 14px;text-align:center;font-size:1.0em;white-space:nowrap;border:none;">Group #</th>
-</tr>
 <tr style="background-color:#e8e8e8;">
 <th style="padding:6px 10px;border:1px solid #bbb;width:5%;">#</th>
 <th style="padding:6px 10px;border:1px solid #bbb;">Actor</th>
-<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;"></th>
+<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;">Group #</th>
 </tr>
 </thead>
 <tbody>
@@ -135,19 +125,17 @@ Each student group self-assigns one actor. The **Group #** column is filled in d
 </tbody>
 </table>
 
-<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<div style="background-color:#7030A0;color:white;padding:10px 14px;margin-bottom:0;border-radius:4px 4px 0 0;">
+<strong style="font-size:1.05em;">Bloc 6 — Transition Economies, Hosts &amp; Brokers</strong><br>
+<span style="font-weight:normal;font-size:0.87em;opacity:0.92;">Actors united by an interest in managed transition and procedural legitimacy, but with divergent fossil-fuel dependencies; the host must appear neutral while others seek negotiated phase-downs and market mechanisms.</span>
+</div>
+
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;margin-top:0;">
 <thead>
-<tr style="background-color:#7030A0;color:white;">
-<th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
-  Bloc 6 — Transition Economies, Hosts &amp; Brokers
-  <br><span style="font-weight:normal;font-size:0.87em;opacity:0.92;">Actors united by an interest in managed transition and procedural legitimacy, but with divergent fossil-fuel dependencies; the host must appear neutral while others seek negotiated phase-downs and market mechanisms.</span>
-</th>
-<th style="padding:10px 14px;text-align:center;font-size:1.0em;white-space:nowrap;border:none;">Group #</th>
-</tr>
 <tr style="background-color:#e8e8e8;">
 <th style="padding:6px 10px;border:1px solid #bbb;width:5%;">#</th>
 <th style="padding:6px 10px;border:1px solid #bbb;">Actor</th>
-<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;"></th>
+<th style="padding:6px 10px;border:1px solid #bbb;width:12%;text-align:center;">Group #</th>
 </tr>
 </thead>
 <tbody>
