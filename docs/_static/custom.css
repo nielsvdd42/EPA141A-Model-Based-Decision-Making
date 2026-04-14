@@ -388,15 +388,14 @@ table {
   margin: 1.2rem 0;
 }
 
-thead tr,
-table thead tr {
+/* Standard tables (not bloc-colour tables in actors page) */
+table:not(.bloc-table) thead tr {
   background: var(--table-head-bg) !important;
   color: var(--table-head-fg) !important;
 }
 
-thead th,
-table thead th,
-.bd-article-container thead th {
+table:not(.bloc-table) thead th,
+.bd-article-container table:not(.bloc-table) thead th {
   color: var(--table-head-fg) !important;
   background: var(--table-head-bg) !important;
   font-weight: 600;
@@ -406,22 +405,20 @@ table thead th,
 }
 
 /* Header cells wrap text in <p> — force those white too */
-thead th p,
-thead th a,
-table thead th p,
-table thead th a {
+table:not(.bloc-table) thead th p,
+table:not(.bloc-table) thead th a {
   color: var(--table-head-fg) !important;
 }
 
-tbody tr:nth-child(even) {
+table:not(.bloc-table) tbody tr:nth-child(even) {
   background: var(--table-row-even);
 }
 
-tbody tr:nth-child(odd) {
+table:not(.bloc-table) tbody tr:nth-child(odd) {
   background: var(--table-row-odd);
 }
 
-tbody tr:hover {
+table:not(.bloc-table) tbody tr:hover {
   background: var(--table-row-hover) !important;
 }
 

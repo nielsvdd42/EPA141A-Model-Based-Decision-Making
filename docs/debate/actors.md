@@ -15,7 +15,7 @@ Geographic distribution of the six negotiating blocs.
 
 Each student group self-assigns one actor. The **Group #** column is filled in during the first lecture.
 
-<table style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
 <thead>
 <tr style="background-color:#3A7D44;color:white;">
 <th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
@@ -39,7 +39,7 @@ Each student group self-assigns one actor. The **Group #** column is filled in d
 </tbody>
 </table>
 
-<table style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
 <thead>
 <tr style="background-color:#BF8B00;color:white;">
 <th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
@@ -63,7 +63,7 @@ Each student group self-assigns one actor. The **Group #** column is filled in d
 </tbody>
 </table>
 
-<table style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
 <thead>
 <tr style="background-color:#E87722;color:white;">
 <th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
@@ -87,7 +87,7 @@ Each student group self-assigns one actor. The **Group #** column is filled in d
 </tbody>
 </table>
 
-<table style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
 <thead>
 <tr style="background-color:#2E74B5;color:white;">
 <th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
@@ -111,7 +111,7 @@ Each student group self-assigns one actor. The **Group #** column is filled in d
 </tbody>
 </table>
 
-<table style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
 <thead>
 <tr style="background-color:#C00000;color:white;">
 <th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
@@ -135,7 +135,7 @@ Each student group self-assigns one actor. The **Group #** column is filled in d
 </tbody>
 </table>
 
-<table style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
+<table class="bloc-table" style="width:100%;border-collapse:collapse;margin-bottom:1.8em;">
 <thead>
 <tr style="background-color:#7030A0;color:white;">
 <th colspan="2" style="padding:10px 14px;text-align:left;font-size:1.05em;border:none;">
